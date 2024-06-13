@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GwanUlrich
 - 👀 I’m interested in developing my programming skills
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning php, css and JS
 - 💞️ I’m looking to collaborate on database design and analysis
 - 📫 How to reach me: gwanndonwi@gmail.com
 - 😄 Pronouns: Talker
